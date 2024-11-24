@@ -48,4 +48,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("{:?}", formatted_addresses);
 
     Ok(())
+
+    //still pending
 }
